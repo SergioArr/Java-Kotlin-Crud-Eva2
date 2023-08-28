@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eva2</string>
+    <string name="title_activity_new_product">NewProduct</string>
+    <string name="addProductButton"> + Add Product</string>
+    <string name="addProductTitle"> Add Product</string>
+    <string name="addProductCaption"> Name Product</string>
+    <string name="addButton"> + Add </string>
+    <string name="returnButton"> Back </string>
+    <string name="successMessage"> Product added successfully </string>
+    <string name="errorMessage"> Please, set a valid name product </string>
+</resources>
